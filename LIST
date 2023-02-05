@@ -9,5 +9,10 @@ MainModule['1QxRRqS'] = {
 	['UserId'] = 1265806400,
 	['Buy'] = "VehicleSpawner"
 }
+MainModule['F10DMQ'] = {
+	['Buyer'] = "JennieFeat",
+	['UserId'] = 1265806400,
+	['Buy'] = "MoneySystem"
+}
 
 return MainModule
