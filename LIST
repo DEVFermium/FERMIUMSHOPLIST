@@ -1,0 +1,13 @@
+local MainModule = {}
+MainModule['1QxRRqSF'] = {
+	['Buyer'] = "DEV_Fermium",
+	['UserId'] = 3579035534,
+	['Buy'] = "VehicleSpawner"
+}
+MainModule['1QxRRqS'] = {
+	['Buyer'] = "JennieFeat",
+	['UserId'] = 1265806400,
+	['Buy'] = "VehicleSpawner"
+}
+
+return MainModule
